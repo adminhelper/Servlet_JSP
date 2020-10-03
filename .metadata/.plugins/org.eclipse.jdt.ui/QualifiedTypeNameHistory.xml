@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.apache.commons.fileupload.disk.DiskFileItemFactory"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="org.apache.commons.fileupload.servlet.ServletFileUpload"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="org.apache.commons.fileupload.FileItem"/>
+<fullyQualifiedTypeName name="com.mysql.jdbc.Driver"/>
+<fullyQualifiedTypeName name="javax.servlet.annotation.WebInitParam"/>
+<fullyQualifiedTypeName name="javax.servlet.Filter"/>
+<fullyQualifiedTypeName name="javax.servlet.ServletContext"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+<fullyQualifiedTypeName name="spms.dao.MemberDao"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="org.apache.commons.dbcp.BasicDataSource"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="spms.vo.Member"/>
+<fullyQualifiedTypeName name="java.util.Properties"/>
+<fullyQualifiedTypeName name="javax.naming.Context"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Method"/>
+<fullyQualifiedTypeName name="spms.listeners.ContextLoaderListener"/>
+<fullyQualifiedTypeName name="spms.context.ApplicationContext"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.ws.api.Component"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="spms.annotation.Component"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="javax.sql.DataSource"/>
+<fullyQualifiedTypeName name="java.sql.Statement"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="spms.vo.Project"/>
+<fullyQualifiedTypeName name="com.google.common.io.Resources"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="org.apache.ibatis.io.Resources"/>
+</qualifiedTypeNameHistroy>

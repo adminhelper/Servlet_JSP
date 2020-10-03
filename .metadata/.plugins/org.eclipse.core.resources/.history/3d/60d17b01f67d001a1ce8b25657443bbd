@@ -1,0 +1,8 @@
+package spms.servlets;
+
+import javax.servlet.http.HttpServlet;
+
+@WebServlet("/auth/login")
+public class LogInServlet extends HttpServlet{
+
+}

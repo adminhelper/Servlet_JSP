@@ -1,0 +1,12 @@
+package spms.servlets;
+
+import javax.servlet.annotation.WebServlet;
+
+@WebServlet("/auth/logout")
+public class LogOutServlet {
+	
+	private void doGet() {
+		// TODO Auto-generated method stub
+
+	}
+}

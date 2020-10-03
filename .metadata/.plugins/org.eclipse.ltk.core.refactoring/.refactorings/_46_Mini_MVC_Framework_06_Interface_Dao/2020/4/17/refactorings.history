@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;spms.dao.MemberDao&apos; to &apos;MySqlMemberDao&apos;&#x0D;&#x0A;- Original project: &apos;_46_Mini_MVC_Framework_06_Interface_Dao&apos;&#x0D;&#x0A;- Original element: &apos;spms.dao.MemberDao&apos;&#x0D;&#x0A;- Renamed element: &apos;spms.dao.MySqlMemberDao&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MemberDao&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;spms.dao{MemberDao.java[MemberDao" matchStrategy="1" name="MySqlMemberDao" qualified="false" references="true" similarDeclarations="false" stamp="1587345538615" textual="false" version="1.0"/>
+</session>

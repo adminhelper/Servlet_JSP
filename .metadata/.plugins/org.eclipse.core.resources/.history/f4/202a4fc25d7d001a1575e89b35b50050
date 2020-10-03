@@ -1,0 +1,73 @@
+package spms.vo;
+
+import java.util.Date;
+
+/*
+VO(Value Object)
+1) DB의 테이블/View와 1:1 관계
+2) 객체간의 매개 변수(DTO)
+  ; Data Transfer Object
+*/  
+
+/*
+member.setNo(10)
+	  .setName("hong")
+	  .setEmail("h@daum.net");
+	  
+이렇게 chain형식으로 호출하기 위해
+setter의 리턴값을 Member로 바꾸겠다.
+*/
+public class Member {
+	protected int no;
+	protected String name;
+	protected String email;
+	protected String password;
+	protected Date createdDate;
+	protected Date modifiedDate;
+	
+	public int getNo() {
+		return no;
+	}
+	public void setNo(int no) {
+		this.no = no;
+	}
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public String getEmail() {
+		return email;
+	}
+	public void setEmail(String email) {
+		this.email = email;
+	}
+	public String getPassword() {
+		return password;
+	}
+	public void setPassword(String password) {
+		this.password = password;
+	}
+	public Date getCreatedDate() {
+		return createdDate;
+	}
+	public void setCreatedDate(Date createdDate) {
+		this.createdDate = createdDate;
+	}
+	public Date getModifiedDate() {
+		return modifiedDate;
+	}
+	public void setModifiedDate(Date modifiedDate) {
+		this.modifiedDate = modifiedDate;
+	}
+	
+	
+}
+
+
+
+
+
+
+

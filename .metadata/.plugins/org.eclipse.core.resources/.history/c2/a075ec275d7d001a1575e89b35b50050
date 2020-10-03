@@ -1,0 +1,8 @@
+package spms.vo;
+
+VO(Value Object)
+1) DB의 테이블과 1:1 관계
+2) DB의 View과 1:1 관계
+public class Member {
+
+}

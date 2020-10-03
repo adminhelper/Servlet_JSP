@@ -1,0 +1,9 @@
+package spms.servlets;
+
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+
+@WebServlet("/auth/logout")
+public class LogOutServlet extends HttpServlet{
+
+}
